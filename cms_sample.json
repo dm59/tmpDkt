@@ -1,45 +1,47 @@
 {
-floorConfig: {
-autoplay: false,
-timer: 4,
-buttonDisplay: false,
-},
-items: [
-{
-title: "15€ offerts en carte cadeau ",
-subtitle: "",
-background: {
-image: "https://contents.mediadecathlon.com/s952173/k$2aa3e69232659b566e5d78af6987498e/slider%20desktop%20background%20image.jpg?format=auto&f=2000x0"
-},
-button: {
-label: "J'en profite ",
-variant: "conversion",
-href: "https://www.decathlon.fr/browse/c0-tous-les-sports/c1-running-route/c3-chaussures-running-adidas/_/N-1knugn6?opeco=opeco:HP_IMMERSIVE1_supernova-adidas&type=opeco",
-},
-picture: {
-desktop: "https://contents.mediadecathlon.com/s952171/k$c4b7265eb1806085ccef91fae5f4a6a4/slider%20desktop%20content%20image.jpg?format=auto&f=2000x0",
-tablet: "https://contents.mediadecathlon.com/s952170/k$2f25882135195aba1cababe6bb5adb4b/slider%20mobile%20content%20image.jpg?format=auto",
-mobile: "https://contents.mediadecathlon.com/s952170/k$2f25882135195aba1cababe6bb5adb4b/slider%20mobile%20content%20image.jpg?format=auto",
-square: "",
-},
-color: "white",
-},
-{
-title: "Pour démarrer la rando du bon pied",
-subtitle: "",
-background: {
-image: "https://contents.mediadecathlon.com/s952851/k$01e5e05503ce7f4a655cb4eadc979e63/slider%20desktop%20background%20image.jpg?format=auto&f=2000x0"
-},
-button: {
-label: "Voir la sélection",
-variant: "conversion",
-href: "https://www.decathlon.fr/browse/c0-tous-les-sports/c1-randonnee-trek/c2-chaussures-et-sandales/_/N-eq9tju?opeco=opeco:HP_IMMERSIVE2_chaussure-rando&type=opeco",
-},
-picture: {
-desktop: "https://contents.mediadecathlon.com/s952855/k$72e0d1cc124cf3cd4dd7d667d3a0032f/slider%20desktop%20content%20image.jpg?format=auto&f=2000x0",
-tablet: "https://contents.mediadecathlon.com/s952856/k$a421f63cab67487452e61efc5d0564af/slider%20mobilcontent%20image.jpg?format=auto",
-mobile: "https://contents.mediadecathlon.com/s952856/k$a421f63cab67487452e61efc5d0564af/slider%20mobilcontent%20image.jpg?format=auto",
-square: "https://contents.mediadecathlon.com/s947924/k$72301aafae580f6d72ee0b3c24de8e19/slider%20app%20content%20image.jpg?format=auto",
-},
-color: "white",
+  "floorConfig": {
+    "autoplay": false,
+    "timer": 4,
+    "buttonDisplay": false
+  },
+  "items": [
+    {
+      "title": "15€ offerts en carte cadeau ",
+      "subtitle": "",
+      "background": {
+        "image": "https://contents.mediadecathlon.com/s952173/k$2aa3e69232659b566e5d78af6987498e/slider%20desktop%20background%20image.jpg?format=auto&f=2000x0"
+      },
+      "button": {
+        "label": "J'en profite ",
+        "variant": "conversion",
+        "href": "https://www.decathlon.fr/browse/c0-tous-les-sports/c1-running-route/c3-chaussures-running-adidas/_/N-1knugn6?opeco=opeco:HP_IMMERSIVE1_supernova-adidas&type=opeco"
+      },
+      "picture": {
+        "desktop": "https://contents.mediadecathlon.com/s952171/k$c4b7265eb1806085ccef91fae5f4a6a4/slider%20desktop%20content%20image.jpg?format=auto&f=2000x0",
+        "tablet": "https://contents.mediadecathlon.com/s952170/k$2f25882135195aba1cababe6bb5adb4b/slider%20mobile%20content%20image.jpg?format=auto",
+        "mobile": "https://contents.mediadecathlon.com/s952170/k$2f25882135195aba1cababe6bb5adb4b/slider%20mobile%20content%20image.jpg?format=auto",
+        "square": ""
+      },
+      "color": "white"
+    },
+    {
+      "title": "Pour démarrer la rando du bon pied",
+      "subtitle": "",
+      "background": {
+        "image": "https://contents.mediadecathlon.com/s952851/k$01e5e05503ce7f4a655cb4eadc979e63/slider%20desktop%20background%20image.jpg?format=auto&f=2000x0"
+      },
+      "button": {
+        "label": "Voir la sélection",
+        "variant": "conversion",
+        "href": "https://www.decathlon.fr/browse/c0-tous-les-sports/c1-randonnee-trek/c2-chaussures-et-sandales/_/N-eq9tju?opeco=opeco:HP_IMMERSIVE2_chaussure-rando&type=opeco"
+      },
+      "picture": {
+        "desktop": "https://contents.mediadecathlon.com/s952855/k$72e0d1cc124cf3cd4dd7d667d3a0032f/slider%20desktop%20content%20image.jpg?format=auto&f=2000x0",
+        "tablet": "https://contents.mediadecathlon.com/s952856/k$a421f63cab67487452e61efc5d0564af/slider%20mobilcontent%20image.jpg?format=auto",
+        "mobile": "https://contents.mediadecathlon.com/s952856/k$a421f63cab67487452e61efc5d0564af/slider%20mobilcontent%20image.jpg?format=auto",
+        "square": "https://contents.mediadecathlon.com/s947924/k$72301aafae580f6d72ee0b3c24de8e19/slider%20app%20content%20image.jpg?format=auto"
+      },
+      "color": "white"
+    }
+  ]
 }
